@@ -1,2 +1,1 @@
-# 2022Rekenmachine
-OPT3 Git-Hub totoriul 
+# opt2-javafx-pacman
